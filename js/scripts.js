@@ -15,4 +15,4 @@ var newName = 'Marian'
  console.log(allNames);
 
 var stringWithArray = allNames.toString();
-console.log(stringWithArray);  // "aaa, 2.55, bbb, 5"
+console.log(stringWithArray);
